@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://vuejs.org/images/logo.png
+heroImage: /notebook.svg
 heroText: CheckLu
 # tagline: xxxxxx
 actions:
