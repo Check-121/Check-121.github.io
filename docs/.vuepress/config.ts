@@ -15,13 +15,13 @@ export default defineUserConfig<DefaultThemeOptions, BundlerConfig>({
     navbar:[
         {text: '首页', link: '/'},
         {
-            text: '前端标准化',
+            text: '前端规范',
             link: '/stardard/1.Lint规范和配置.md',
         },
-        // {
-        //     text: '工作笔记',
-        //     link: '/work_note/1.Git常用.md',
-        // },
+        {
+            text: '常用笔记',
+            link: '/work_note/1.Git常用.md',
+        },
         { text: '排序算法', link: '/sorting_algorithm/1.冒泡排序.md' },
         { 
             text: '路的博客', 
